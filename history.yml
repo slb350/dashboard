@@ -1,0 +1,91 @@
+---
+convergence: |+
+  data: {"points":[{"x":50,"y":8},{"x":51,"y":13},{"x":52,"y":4},{"x":53,"y":35},{"x":54,"y":7},{"x":55,"y":16},{"x":56,"y":21},{"x":57,"y":14},{"x":58,"y":39},{"x":59,"y":42}],"id":"convergence","updatedAt":1403896178}
+
+buzzwords: |+
+  data: {"items":[{"label":"Enterprise","value":5},{"label":"Streamlininess","value":4},{"label":"Pivoting","value":8},{"label":"Leverage","value":5},{"label":"Web 2.0","value":4},{"label":"Paradigm shift","value":8},{"label":"Turn-key","value":8},{"label":"Synergy","value":4},{"label":"Exit strategy","value":3}],"id":"buzzwords","updatedAt":1403896178}
+
+valuation: |+
+  data: {"current":9,"last":81,"id":"valuation","updatedAt":1403896178}
+
+karma: |+
+  data: {"current":143473,"last":116895,"id":"karma","updatedAt":1403896178}
+
+synergy: |+
+  data: {"value":22,"id":"synergy","updatedAt":1403896178}
+
+welcome: |+
+  data: {"text":"Hey, Look what I can do!","id":"welcome","updatedAt":1403742626}
+
+sss-gateway: |+
+  data: {"result":1,"id":"sss-gateway","updatedAt":1404169415}
+
+sss-reddit: |+
+  data: {"result":1,"id":"sss-reddit","updatedAt":1403895054}
+
+sss-github: |+
+  data: {"result":1,"id":"sss-github","updatedAt":1404169416}
+
+sss-brokenserver: |+
+  data: {"result":1,"id":"sss-brokenserver","updatedAt":1403895005}
+
+sss-aws: |+
+  data: {"result":0,"id":"sss-aws","updatedAt":1403895442}
+
+sss-google: |+
+  data: {"result":1,"id":"sss-google","updatedAt":1403908388}
+
+sss-ops: |+
+  data: {"result":1,"id":"sss-ops","updatedAt":1404169416}
+
+sss-obp: |+
+  data: {"result":1,"id":"sss-obp","updatedAt":1404169417}
+
+sss-codeship: |+
+  data: {"result":1,"id":"sss-codeship","updatedAt":1404169417}
+
+sss-jira: |+
+  data: {"result":1,"id":"sss-jira","updatedAt":1404169418}
+
+sss-wiki: |+
+  data: {"result":1,"id":"sss-wiki","updatedAt":1404169427}
+
+sss-afp: |+
+  data: {"result":1,"id":"sss-afp","updatedAt":1404169436}
+
+github_status: |+
+  data: {"status":"good","body":"Everything operating normally.","created_on":"2014-06-28T04:43:53Z","id":"github_status","updatedAt":1404169407}
+
+github_feed: |+
+  data: {"items":[{"commit_sha":"b8d594f666677a8d9d20ec94ad651bb8a5e808d9","message":"Now the Community Links can do a mass update\n\nSigned-off-by: geoffsdavis <geoffsdavis@yahoo.com>","author":"geoffsdavis","url":"https://api.github.com/repos/OffBase/obp-companion-proto-sever/commits/b8d594f666677a8d9d20ec94ad651bb8a5e808d9","branch":"master","avatar_url":"https://avatars.githubusercontent.com/u/3045091?","ago":"7 minutes ago","title":"geoffsdavis pushed master at OffBase/obp-companion-proto-sever"},{"commit_sha":"05ded0ab2963643725e63817ebff64ab2f184273","message":"[IMP] Line chart now responsive.","author":"dardub","url":"https://api.github.com/repos/OffBase/cpt_client/commits/05ded0ab2963643725e63817ebff64ab2f184273","branch":"preview","avatar_url":"https://avatars.githubusercontent.com/u/561983?","ago":"25 minutes ago","title":"dardub pushed preview at OffBase/cpt_client"},{"commit_sha":"05ded0ab2963643725e63817ebff64ab2f184273","message":"[IMP] Line chart now responsive.","author":"dardub","url":"https://api.github.com/repos/OffBase/cpt_client/commits/05ded0ab2963643725e63817ebff64ab2f184273","branch":"analytics_comparison","avatar_url":"https://avatars.githubusercontent.com/u/561983?","ago":"26 minutes ago","title":"dardub pushed analytics_comparison at OffBase/cpt_client"},{"commit_sha":"dff192aa371700eb0f7f7140ffe3ad181a9c6366","message":"[PSDTWO-287][FEATURE] Added sorting in requests index page for both admin and super admin","author":"rottgoth","url":"https://api.github.com/repos/OffBase/cpt_client/commits/dff192aa371700eb0f7f7140ffe3ad181a9c6366","branch":"preview","avatar_url":"https://avatars.githubusercontent.com/u/131984?","ago":"35 minutes ago","title":"rottgoth pushed preview at OffBase/cpt_client"},{"commit_sha":"1e9afac09cd9faa9235243a1074fdb6b7e20eb53","message":"[PSDTWO-287][FEATURE] Added sorting in requests index page for both admin and super admin","author":"rottgoth","url":"https://api.github.com/repos/OffBase/cpt_client/commits/1e9afac09cd9faa9235243a1074fdb6b7e20eb53","branch":"requests","avatar_url":"https://avatars.githubusercontent.com/u/131984?","ago":"36 minutes ago","title":"rottgoth pushed requests at OffBase/cpt_client"}],"id":"github_feed","updatedAt":1404169437}
+
+sss-cprev: |+
+  data: {"result":1,"id":"sss-cprev","updatedAt":1404169436}
+
+sss-cprod: |+
+  data: {"result":1,"id":"sss-cprod","updatedAt":1404169436}
+
+sss-cstag: |+
+  data: {"result":1,"id":"sss-cstag","updatedAt":1404169436}
+
+sss-cagno: |+
+  data: {"result":1,"id":"sss-cagno","updatedAt":1404169436}
+
+sss-xcode: |+
+  data: {"result":1,"id":"sss-xcode","updatedAt":1404169415}
+
+sss-comp: |+
+  data: {"result":1,"id":"sss-comp","updatedAt":1404169437}
+
+sss-dark: |+
+  data: {"result":1,"id":"sss-dark","updatedAt":1404169437}
+
+aww: |+
+  data: {"image":"background-image:url(http://i.imgur.com/O8ivVW5.jpg)","id":"aww","updatedAt":1404169407}
+
+sss-manual: |+
+  data: {"result":1,"id":"sss-manual","updatedAt":1404169438}
+
+sss-styles: |+
+  data: {"result":1,"id":"sss-styles","updatedAt":1404169438}
+
